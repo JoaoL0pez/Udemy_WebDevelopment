@@ -1,0 +1,39 @@
+#bg1 {
+    height: 200px;
+    width: 200px;
+}
+
+#bg2 {
+    height: 200px;
+    width: 200px;
+}
+
+#bg3 {
+    height: 200px;
+    width: 200px;
+}
+
+
+#bg1 {
+    background-color: pink;
+    padding: 20px;  
+    border: 10px solid;
+}
+
+#bg2 {
+    background-color: aqua;
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+
+}
+
+#bg3 {
+    background-color: bisque;
+    border: black solid 10px;
+    margin-left: 40px;
+}
+
+p {
+    margin: 0%;
+}
