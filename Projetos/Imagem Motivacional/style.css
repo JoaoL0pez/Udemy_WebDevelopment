@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-family: 'VT323', monospace;
+    font-size: 400%;
+    text-align: center;
+}
+
+p {
+    color: white;
+    background-color: black;
+    font-family: 'VT323', monospace;
+    margin-left: 10%;
+    font-size: 150%;
+    margin-top: -5%;
+    text-align: center;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+    margin-bottom: -5%;
+    margin-top: 5%;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+#autor {
+    color: white;
+    background-color: black;
+    font-family: 'VT323', monospace;
+    margin-left: 65%;
+    font-size: 90%;
+    margin-top: -4%;
+}
